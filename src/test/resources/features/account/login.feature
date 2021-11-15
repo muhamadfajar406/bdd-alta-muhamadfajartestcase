@@ -1,5 +1,5 @@
 Feature: Login
-  As a Facebook user
+  As a linkid user
   I want to see my timeline
   So that I can like or comment my friend post
 
